@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Water_Ocean
+  m_Shader: {fileID: -6465566751694194690, guid: dc875dc6d5baf6246894df31f996fe5a, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_0f8cef140a8445f69c31c43d788fb51b: 0.1
+    - Vector1_171361f496744c83955f130a6007230c: 3
+    - Vector1_67534e8c50d44c23a69901f976b0e83f: 10
+    - Vector1_afb3ce98f0664cef8b9590c910ca4bcb: 1
+    - Vector1_cc3336da74aa4fed8a26944b76e6b203: 20
+    - Vector1_d1fa436dea08452bb8d5111951e1da89: 0.1
+    m_Colors:
+    - Color_bf11de160e884e3a86ed6d252433f355: {r: 0, g: 0.9539037, b: 1, a: 0}
+    - Color_e7511aaf9e334c3f98cedde7fd7c0d47: {r: 0.08050018, g: 0.10734787, b: 0.6320754, a: 0}
+    - Vector4_19976bded5cd49f5a23f78f0b1c30ab2: {r: 0.1, g: 0.1, b: -0.1, a: -0.1}
+  m_BuildTextureStacks: []
+--- !u!114 &5110625663757885475
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 4

@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Water_Pond_03_URP
+  m_Shader: {fileID: -6465566751694194690, guid: ce97baa9c33ff00418258bce1ae14ce3, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_1adc86d276cc474c8c8dea84810278f1: 0.1
+    - Vector1_2727591bed174b7c82612cf9b70598e7: 2.5
+    - Vector1_29c80d67014e41958d0db07ff312ef13: 0.1
+    - Vector1_3fad9963aa794a95a441939ead600427: 8
+    - Vector1_57b609a406c1425995a9072022e043a8: 0.1
+    - Vector1_5b9cd7316f244c1a98baff0f330cb38a: 1
+    - Vector1_66f3c9e3636f441195a0e719a86777c0: 0.1
+    - Vector1_7090f2355ed54ccb8e973fa129eded7e: 20
+    - Vector1_7f486577a1074b898e82b078728eda6a: 1
+    - Vector1_903e050031ae47f6bf3e00bba7c6f97a: 1
+    - Vector1_9bc239c33e954be788aa44c3b8e7dc4a: 0.1
+    - Vector1_9be94e091f47494c840545d041cfe4da: 0.441
+    - Vector1_b81828b7c11d41a6a8a5d3f5e5862057: 20
+    - Vector1_ec71bc6652b441398fff615c579be65f: 1
+    - Vector1_fe8c95e5c0434b4099d4e5d548e333fa: 0.243
+    m_Colors:
+    - Color_675b96b0396e4f778a8fb75194d2fc6a: {r: 0, g: 0.7271333, b: 1, a: 0.5019608}
+    - Color_6be46517487a4dad89f76d9705975326: {r: 0, g: 2.670157, b: 2.486008, a: 0.007843138}
+    - Color_8bc570fe18ea4964926bc3c43b414a65: {r: 1, g: 1, b: 1, a: 0.6941177}
+    - Color_e1c5c6da46e8457c8b318710f1e4a274: {r: 0.08499997, g: 0.082282774, b: 0.40566036, a: 0.9019608}
+    - Vector2_feba67bf3d32405396532d71de64da18: {r: 0.1, g: 0.1, b: 0, a: 0}
+  m_BuildTextureStacks: []
+--- !u!114 &111786175356582551
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 4
