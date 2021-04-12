@@ -39,3 +39,6 @@ sysinfo.txt
 *.blend1
 *.blend1.meta
 *.blend.meta
+
+*auto-save [1-5].aep
+**/Adobe/
