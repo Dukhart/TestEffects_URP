@@ -46,3 +46,5 @@ sysinfo.txt
 *.vdb
 *.uni
 *.log
+*.exe[0-5].log
+
