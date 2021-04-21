@@ -47,4 +47,5 @@ sysinfo.txt
 *.uni
 *.log
 *.exe[0-5].log
-
+Blender/
+Logs/
